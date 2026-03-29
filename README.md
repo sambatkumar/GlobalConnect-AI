@@ -103,7 +103,7 @@ npm start
 ## 👨‍💻 Author
 
 **Sambat Kumar**
-AI & Data Science Student
+
 
 ---
 
